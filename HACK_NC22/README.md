@@ -1,3 +1,0 @@
-# VotingMachine
-
-# HackNC22
