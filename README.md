@@ -1,1 +1,3 @@
-# Voting-machine
+# VotingMachine
+
+# HackNC22
