@@ -1,3 +1,3 @@
 # VotingMachine
 
-# HackNC22
+Our application is a voting machine, which helps all kinds of organizations to do public voting for any awards or elections. This program needs voters to vote on this one by one, and it will collect every voters’ result and do the counting, displaying the candidate who has the maximum votes. More amazingly, this application also includes a further extension. It allows the host of the event to add more options, adding more potential candidates; therefore, the voters will be able to have more options to vote. Here, we will provide introduction and the instructions of this application.
